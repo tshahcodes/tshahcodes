@@ -1,5 +1,5 @@
-Hii I am T Shah.
-I like coding.
+Hii I am T Shah. <br>
+I like coding. <br>
 my tech stack is 
 - html
 - css
